@@ -1,2 +1,4 @@
-# Classroom-Shuffle2.0
+# Classroom-Shuffle-2.0
 This web-app will allow teachers/instructors to create unique partnerships for different projects among all of their classes.
+
+This is a remake of my previous project Classroom Shuffle. I will turn it into a web-app and use the MERN stack to make it awesome. I also plan on rewriting the main algorithm so that it is less awful.
